@@ -1,0 +1,11 @@
+.appBar{
+    background-color: #E6E6FA;
+    color: #708090;
+    margin: 0;
+    padding-left: 1rem;
+    padding-top: .2rem;
+    padding-bottom: .2rem;
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
